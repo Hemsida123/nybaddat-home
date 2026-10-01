@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nybaddat-home-akersberga.carlzzon121.chatgpt.site/sitemap.xml
